@@ -1,6 +1,7 @@
 # Origami Store
 A store made in GTK3 to manage, install, and remove flatpaks, only that
 
+<img width="1306" height="685" alt="image" src="https://github.com/user-attachments/assets/caf9c18d-b9b3-423c-beb2-a1b2de1dcc48" />
 
 
 How to use (INDEVELOPMENT)
